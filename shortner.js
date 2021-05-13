@@ -1,5 +1,5 @@
 
-var endpoint = "http://www.jsonstore.io/00a4c82b645287a055779525d4fb2b7beb569111947fcc728d9148d625b8537a"
+var endpoint = ""
 
 function geturl(){            //  dekh rahe hai ki fit hai ki nahi warna fit karna padega starting url ka 
     var url = document.getElementById("urlinput").value;
