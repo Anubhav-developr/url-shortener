@@ -1,0 +1,66 @@
+#urlinput{
+
+}
+
+
+
+
+#by:hover { color: hotpink;
+    
+
+}
+
+#d1 {
+    border-top: 2px ivory ;
+    text-align: center;
+    background-color: orange;
+}
+
+h1:hover {   color: rgb(253, 10, 10);
+
+}
+
+#p:hover {
+    color: rgb(240, 8, 8);
+}
+
+input:hover{
+border: 2px solid rgb(233, 134, 4);
+}
+
+
+
+h1 {
+    font-family:monospace;
+    color: rgb(48, 48, 221);
+    
+
+}
+
+#p{
+    font-family:monospace;
+    color: rgb(76, 11, 228);
+    
+    
+    
+}
+
+#by {
+    background-color: rgb(12, 241, 89);
+    border: 1px solid yellow;
+    border-radius: 2px;
+    
+}
+
+#z{
+    font-family: monospace;
+    color: rgb(76, 11, 228);
+   
+}
+input{
+    border: 1px solid yellow;
+    border-radius: 2px;
+}
+#z:hover{
+    color: red;
+}
